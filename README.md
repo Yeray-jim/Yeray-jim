@@ -1,8 +1,29 @@
-¡Hola! Soy Yeray, un apasionado programador joven con un insaciable deseo de aprendizaje y superación. A mis 19 años, estoy forjando mi camino en el emocionante mundo de la tecnología mientras estudio Ingeniería en Tecnologías de la Información y Comunicación en México.<br><br>Mi búsqueda constante de conocimiento me impulsa a explorar nuevas fronteras y a desafiarme a mí mismo en cada proyecto que emprendo. Mi amor por la programación y mi compromiso con la excelencia me llevan a buscar siempre soluciones innovadoras y eficientes. Me emociona la oportunidad de ser parte de proyectos colaborativos y desafiantes que me permitan crecer como profesional y contribuir significativamente.<br><br>Desde que me sumergí en el fascinante mundo del código, he estado trabajando en fortalecer mis habilidades en una variedad de lenguajes y tecnologías. Mi pasión por el desarrollo de software se combina con mi habilidad para comunicarme y trabajar en equipo, lo que me permite contribuir de manera efectiva en entornos colaborativos.<br><br>Mi objetivo es no solo alcanzar mis propias metas, sino también aportar un valor excepcional a los equipos y proyectos en los que participo. Estoy ansioso por conectar con mentes afines, aprender de las mejores prácticas de la industria y enfrentar desafíos ambiciosos que fomenten mi crecimiento continuo.<br><br>Si estás buscando a alguien que no solo esté dispuesto a sumergirse en el mundo de la programación, sino que también esté listo para destacar y dejar una huella significativa, ¡estaré encantado de ser parte de tu equipo! Juntos, podemos llevar las ideas más audaces a la vida y crear soluciones que marquen la diferencia.<br><br>¡Espero emocionado las oportunidades de colaboración y los emocionantes desafíos que el futuro tiene reservados!
+
+# Kevin Yeray Cruz Jiménez
 
 
-Socials:
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/yeray-cruz-jiménez-3a08b5282) 
+## Sobre mi
+Ingeniero en tecnologías de la información y comunicación en curso. Se trabajar en equipo teniendo una comunicación efectiva, también me adapto a implementaciones de herramientas distintas a mi stack de desarrollo, a su vez tengo igual facilidad de cambio de entorno de trabajo. Resuelvo problemas manteniendo resiliencia y propongo soluciones con base en mi pensamiento critico.
 
-Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+Trabajo con arquitectura monolítica y multicapa en mis distintos proyectos personales con los cuales sigo desarrollando mis habilidades como programador.
+
+Hago uso de herramientas con Inteligencia Artificial. Tengo experiencia en el uso de agentes de IA para automatización de tareas, generación y optimización de código, análisis de información y apoyo en la toma de decisiones.
+
+
+## 🛠 Skills
+## Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)![Flet](https://img.shields.io/badge/Flet-02569B?style=for-the-badge&logo=flet&logoColor=white)
+## Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+## Base de datos
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+## DevOps
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![BIND](https://img.shields.io/badge/BIND-00599C?style=for-the-badge&logo=bind&logoColor=white)
+
+
+## Stats
+![GitHub Stats Card](https://ghstats.dev/api/card?username=Yeray-jim&border_radius=27)
