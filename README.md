@@ -17,7 +17,7 @@
 
 <table border="0" style="border: none;">
   <tr style="border: none;">
-    <td width="65%" valign="top" style="border: none;">
+  <td width="65%" valign="top" style="border: none;">
 
   ### Sobre mí
 
