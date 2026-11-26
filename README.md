@@ -4,9 +4,9 @@
 </p>
 
 <div align="center">
-  <img src="Shaking Shinji Ikari GIF.gif" width=300>
+  <img src="Shaking Shinji Ikari GIF.gif">
 </div>
-
+<br />
 <p align="center">
   <img src="https://readmes.pages.dev/text/say/Sobre%2C%20mi/wave" alt="Sobre mi">
 </p>
