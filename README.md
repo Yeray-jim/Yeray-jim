@@ -15,14 +15,36 @@
   <img src="https://readmes.pages.dev/text/say/Sobre%20mi/wave" alt="Sobre mi">
 </p>
 
-Ingeniero en tecnologías de la información y comunicación en curso. Se trabajar en equipo teniendo una comunicación efectiva, también me adapto a implementaciones de herramientas distintas a mi stack de desarrollo, a su vez tengo igual facilidad de cambio de entorno de trabajo. Resuelvo problemas manteniendo resiliencia y propongo soluciones con base en mi pensamiento critico.
+<table border="0" style="border: none;">
+  <tr style="border: none;">
+    <td width="65%" valign="top" style="border: none;">
 
-Trabajo con arquitectura monolítica y multicapa en mis distintos proyectos personales con los cuales sigo desarrollando mis habilidades como programador.
+  ### Sobre mí
 
-Hago uso de herramientas con Inteligencia Artificial. Tengo experiencia en el uso de agentes de IA para automatización de tareas, generación y optimización de código, análisis de información y apoyo en la toma de decisiones.
+      Ingeniero en Tecnologías de la Información y Comunicación
+      en curso. Sé trabajar en equipo manteniendo una comunicación 
+      efectiva. También me adapto a implementaciones de herramientas 
+      distintas a mi stack de desarrollo y tengo facilidad para 
+      adaptarme a diferentes entornos de trabajo.
 
+      Resuelvo problemas manteniendo resiliencia y propongo soluciones 
+      con base en mi pensamiento crítico.
 
----
+      Trabajo con arquitecturas monolíticas y multicapa en mis distintos 
+      proyectos personales, conlos cuales sigo desarrollando mis 
+      habilidades como programador.
+
+      Hago uso de herramientas con Inteligencia Artificial. Tengo 
+      experiencia utilizando agentes de IA para automatización de 
+      tareas, generación y optimización de código, análisis de 
+      información y apoyo en la toma de decisiones.
+    
+</td>
+  <td width="35%" align="center" valign="middle" style="border: none;">
+      <img src="gato-volando.jpg" width="250" alt="Imagen de presentación">
+</td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://readmes.pages.dev/text/say/Stack%20tecnico/wave" alt="Stack tecnico">
