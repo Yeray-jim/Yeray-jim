@@ -1,5 +1,5 @@
 
-![Hola,soy Yeray](https://readmes.pages.dev/text/say/Hi%2C%20I'm%20Aki/wave)
+![Hola,soy Yeray](https://readmes.pages.dev/text/say/Hola%2C%20Soy%20Yeray/wave)
 
 
 ## Sobre mi
