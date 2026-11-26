@@ -3,6 +3,10 @@
   <img src="https://readmes.pages.dev/text/say/Hola%2C%20soy%20Yeray/typing/size-48" alt="Hola, soy Yeray">
 </p>
 
+<div align="center">
+  <img src="Shaking Shinji Ikari GIF.gif" width=300>
+</div>
+
 <p align="center">
   <img src="https://readmes.pages.dev/text/say/Sobre%2C%20mi/wave" alt="Sobre mi">
 </p>
