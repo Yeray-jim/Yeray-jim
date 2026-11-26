@@ -1,8 +1,12 @@
 
-![Hola,soy Yeray](https://readmes.pages.dev/text/say/Hola%2C%20Soy%20Yeray/wave)
+<p align="center">
+  <img src="https://readmes.pages.dev/text/say/Hola%2C%20soy%20Yeray/typing/size-48" alt="Hola, soy Yeray">
+</p>
 
+<p align="center">
+  <img src="https://readmes.pages.dev/text/say/Sobre%2C%20mi/wave" alt="Sobre mi">
+</p>
 
-## Sobre mi
 Ingeniero en tecnologías de la información y comunicación en curso. Se trabajar en equipo teniendo una comunicación efectiva, también me adapto a implementaciones de herramientas distintas a mi stack de desarrollo, a su vez tengo igual facilidad de cambio de entorno de trabajo. Resuelvo problemas manteniendo resiliencia y propongo soluciones con base en mi pensamiento critico.
 
 Trabajo con arquitectura monolítica y multicapa en mis distintos proyectos personales con los cuales sigo desarrollando mis habilidades como programador.
@@ -27,6 +31,7 @@ Hago uso de herramientas con Inteligencia Artificial. Tengo experiencia en el us
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![BIND](https://img.shields.io/badge/BIND-00599C?style=for-the-badge&logo=bind&logoColor=white)
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/xCaptaiN09/xCaptaiN09/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
-## Stats
-![GitHub Stats Card](https://ghstats.dev/api/card?username=Yeray-jim&border_radius=27)
